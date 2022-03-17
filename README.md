@@ -6,13 +6,15 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://gayathrip.netlify.app/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/gayathripriyaG)
 
 - 💬 Ask me about **react,HTML,CSS,Javascript,Mongodb,Express**
 
 - 📫 How to reach me **gayamgayathripriya@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1S6ezaU9VpL2TjYFdz_jOFDt74GhtEcJh/view?usp=sharing)
+
+- 🤩 Checkout my Portfolio [Portfolio](https://gayathrip.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
