@@ -6,13 +6,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
-- 👨‍💻 All of my projects are available at [https://gayathriportfolio.herokuapp.com/](https://gayathriportfolio.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://gayathrip.netlify.app/)
 
 - 💬 Ask me about **react,HTML,CSS,Javascript,Mongodb,Express**
 
 - 📫 How to reach me **gayamgayathripriya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ux4U0wedKskJf_pV0u0YmDVO5XSBJb2l/view?usp=sharing](https://drive.google.com/file/d/1ux4U0wedKskJf_pV0u0YmDVO5XSBJb2l/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1S6ezaU9VpL2TjYFdz_jOFDt74GhtEcJh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
